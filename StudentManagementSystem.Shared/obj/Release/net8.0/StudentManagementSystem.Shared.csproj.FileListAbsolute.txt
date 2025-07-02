@@ -1,0 +1,11 @@
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Shared\bin\Release\net8.0\StudentManagementSystem.Shared.deps.json
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Shared\bin\Release\net8.0\StudentManagementSystem.Shared.dll
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Shared\bin\Release\net8.0\StudentManagementSystem.Shared.pdb
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Shared\obj\Release\net8.0\StudentManagementSystem.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Shared\obj\Release\net8.0\StudentManagementSystem.Shared.AssemblyInfoInputs.cache
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Shared\obj\Release\net8.0\StudentManagementSystem.Shared.AssemblyInfo.cs
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Shared\obj\Release\net8.0\StudentManagementSystem.Shared.csproj.CoreCompileInputs.cache
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Shared\obj\Release\net8.0\StudentManagementSystem.Shared.dll
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Shared\obj\Release\net8.0\refint\StudentManagementSystem.Shared.dll
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Shared\obj\Release\net8.0\StudentManagementSystem.Shared.pdb
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Shared\obj\Release\net8.0\ref\StudentManagementSystem.Shared.dll

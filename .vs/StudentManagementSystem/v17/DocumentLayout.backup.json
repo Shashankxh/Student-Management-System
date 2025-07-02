@@ -1,0 +1,1075 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BF62F0-6006-4FCD-B0CC-5AAD3738BC3E}|StudentManagementSystem.Api\\StudentManagementSystem.Api.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BF62F0-6006-4FCD-B0CC-5AAD3738BC3E}|StudentManagementSystem.Api\\StudentManagementSystem.Api.csproj|solutionrelative:studentmanagementsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA36C47-7463-49E7-84F6-33FCEFFD9DD3}|StudentManagementSystem.Infrastuture\\StudentManagementSystem.Infrastuture.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.infrastuture\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA36C47-7463-49E7-84F6-33FCEFFD9DD3}|StudentManagementSystem.Infrastuture\\StudentManagementSystem.Infrastuture.csproj|solutionrelative:studentmanagementsystem.infrastuture\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA36C47-7463-49E7-84F6-33FCEFFD9DD3}|StudentManagementSystem.Infrastuture\\StudentManagementSystem.Infrastuture.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.infrastuture\\studentmanagementsystem.infrastuture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8DA36C47-7463-49E7-84F6-33FCEFFD9DD3}|StudentManagementSystem.Infrastuture\\StudentManagementSystem.Infrastuture.csproj|solutionrelative:studentmanagementsystem.infrastuture\\studentmanagementsystem.infrastuture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\validation\\studentdetailvalidation\\addvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\validation\\studentdetailvalidation\\addvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3237C56-79F3-42C6-B59D-A1B4497D7100}|StudentManagementSystem.Shared\\StudentManagementSystem.Shared.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.shared\\commonfuntion\\studentfuntion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3237C56-79F3-42C6-B59D-A1B4497D7100}|StudentManagementSystem.Shared\\StudentManagementSystem.Shared.csproj|solutionrelative:studentmanagementsystem.shared\\commonfuntion\\studentfuntion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\features\\studentdetail\\command\\updatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\features\\studentdetail\\command\\updatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76F73A5-0D80-4B32-863A-62210D377492}|StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.domain\\entity\\studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76F73A5-0D80-4B32-863A-62210D377492}|StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj|solutionrelative:studentmanagementsystem.domain\\entity\\studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\features\\studentdetail\\command\\deletehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\features\\studentdetail\\command\\deletehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BF62F0-6006-4FCD-B0CC-5AAD3738BC3E}|StudentManagementSystem.Api\\StudentManagementSystem.Api.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.api\\controllers\\studentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BF62F0-6006-4FCD-B0CC-5AAD3738BC3E}|StudentManagementSystem.Api\\StudentManagementSystem.Api.csproj|solutionrelative:studentmanagementsystem.api\\controllers\\studentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BF62F0-6006-4FCD-B0CC-5AAD3738BC3E}|StudentManagementSystem.Api\\StudentManagementSystem.Api.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.api\\studentmanagementsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9BF62F0-6006-4FCD-B0CC-5AAD3738BC3E}|StudentManagementSystem.Api\\StudentManagementSystem.Api.csproj|solutionrelative:studentmanagementsystem.api\\studentmanagementsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\features\\studentdetail\\query\\getallhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\features\\studentdetail\\query\\getallhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\studentmanagementsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\studentmanagementsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\request\\studentdetail\\getallstudentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\request\\studentdetail\\getallstudentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\request\\studentdetail\\deletestudentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\request\\studentdetail\\deletestudentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\request\\studentdetail\\getstudentdetailsbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\request\\studentdetail\\getstudentdetailsbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\responce\\userresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\responce\\userresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\interface\\istudentdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\interface\\istudentdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\behavior\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\behavior\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BF62F0-6006-4FCD-B0CC-5AAD3738BC3E}|StudentManagementSystem.Api\\StudentManagementSystem.Api.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BF62F0-6006-4FCD-B0CC-5AAD3738BC3E}|StudentManagementSystem.Api\\StudentManagementSystem.Api.csproj|solutionrelative:studentmanagementsystem.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA36C47-7463-49E7-84F6-33FCEFFD9DD3}|StudentManagementSystem.Infrastuture\\StudentManagementSystem.Infrastuture.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.infrastuture\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA36C47-7463-49E7-84F6-33FCEFFD9DD3}|StudentManagementSystem.Infrastuture\\StudentManagementSystem.Infrastuture.csproj|solutionrelative:studentmanagementsystem.infrastuture\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA36C47-7463-49E7-84F6-33FCEFFD9DD3}|StudentManagementSystem.Infrastuture\\StudentManagementSystem.Infrastuture.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.infrastuture\\repository\\genricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA36C47-7463-49E7-84F6-33FCEFFD9DD3}|StudentManagementSystem.Infrastuture\\StudentManagementSystem.Infrastuture.csproj|solutionrelative:studentmanagementsystem.infrastuture\\repository\\genricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\features\\studentdetail\\command\\addhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\features\\studentdetail\\command\\addhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\mapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\mapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA36C47-7463-49E7-84F6-33FCEFFD9DD3}|StudentManagementSystem.Infrastuture\\StudentManagementSystem.Infrastuture.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.infrastuture\\middleware\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA36C47-7463-49E7-84F6-33FCEFFD9DD3}|StudentManagementSystem.Infrastuture\\StudentManagementSystem.Infrastuture.csproj|solutionrelative:studentmanagementsystem.infrastuture\\middleware\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA36C47-7463-49E7-84F6-33FCEFFD9DD3}|StudentManagementSystem.Infrastuture\\StudentManagementSystem.Infrastuture.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.infrastuture\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA36C47-7463-49E7-84F6-33FCEFFD9DD3}|StudentManagementSystem.Infrastuture\\StudentManagementSystem.Infrastuture.csproj|solutionrelative:studentmanagementsystem.infrastuture\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\request\\user\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\request\\user\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\request\\studentdetail\\updatestudentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\request\\studentdetail\\updatestudentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BF62F0-6006-4FCD-B0CC-5AAD3738BC3E}|StudentManagementSystem.Api\\StudentManagementSystem.Api.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BF62F0-6006-4FCD-B0CC-5AAD3738BC3E}|StudentManagementSystem.Api\\StudentManagementSystem.Api.csproj|solutionrelative:studentmanagementsystem.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BF62F0-6006-4FCD-B0CC-5AAD3738BC3E}|StudentManagementSystem.Api\\StudentManagementSystem.Api.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9BF62F0-6006-4FCD-B0CC-5AAD3738BC3E}|StudentManagementSystem.Api\\StudentManagementSystem.Api.csproj|solutionrelative:studentmanagementsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\request\\user\\refreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\request\\user\\refreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\request\\studentdetail\\addstudentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\request\\studentdetail\\addstudentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\responce\\studentdetailsresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\responce\\studentdetailsresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA36C47-7463-49E7-84F6-33FCEFFD9DD3}|StudentManagementSystem.Infrastuture\\StudentManagementSystem.Infrastuture.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.infrastuture\\repository\\studentdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA36C47-7463-49E7-84F6-33FCEFFD9DD3}|StudentManagementSystem.Infrastuture\\StudentManagementSystem.Infrastuture.csproj|solutionrelative:studentmanagementsystem.infrastuture\\repository\\studentdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\interface\\istudentfeereceiptsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\interface\\istudentfeereceiptsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\interface\\igenricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\interface\\igenricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3237C56-79F3-42C6-B59D-A1B4497D7100}|StudentManagementSystem.Shared\\StudentManagementSystem.Shared.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.shared\\globalresponce\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3237C56-79F3-42C6-B59D-A1B4497D7100}|StudentManagementSystem.Shared\\StudentManagementSystem.Shared.csproj|solutionrelative:studentmanagementsystem.shared\\globalresponce\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\responce\\studentfeereceiptsresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\responce\\studentfeereceiptsresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA36C47-7463-49E7-84F6-33FCEFFD9DD3}|StudentManagementSystem.Infrastuture\\StudentManagementSystem.Infrastuture.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.infrastuture\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA36C47-7463-49E7-84F6-33FCEFFD9DD3}|StudentManagementSystem.Infrastuture\\StudentManagementSystem.Infrastuture.csproj|solutionrelative:studentmanagementsystem.infrastuture\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA36C47-7463-49E7-84F6-33FCEFFD9DD3}|StudentManagementSystem.Infrastuture\\StudentManagementSystem.Infrastuture.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.infrastuture\\database\\seeddata\\roleseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA36C47-7463-49E7-84F6-33FCEFFD9DD3}|StudentManagementSystem.Infrastuture\\StudentManagementSystem.Infrastuture.csproj|solutionrelative:studentmanagementsystem.infrastuture\\database\\seeddata\\roleseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA36C47-7463-49E7-84F6-33FCEFFD9DD3}|StudentManagementSystem.Infrastuture\\StudentManagementSystem.Infrastuture.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.infrastuture\\database\\seeddata\\identityroleseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA36C47-7463-49E7-84F6-33FCEFFD9DD3}|StudentManagementSystem.Infrastuture\\StudentManagementSystem.Infrastuture.csproj|solutionrelative:studentmanagementsystem.infrastuture\\database\\seeddata\\identityroleseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76F73A5-0D80-4B32-863A-62210D377492}|StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.domain\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76F73A5-0D80-4B32-863A-62210D377492}|StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj|solutionrelative:studentmanagementsystem.domain\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76F73A5-0D80-4B32-863A-62210D377492}|StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.domain\\studentmanagementsystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E76F73A5-0D80-4B32-863A-62210D377492}|StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj|solutionrelative:studentmanagementsystem.domain\\studentmanagementsystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BF62F0-6006-4FCD-B0CC-5AAD3738BC3E}|StudentManagementSystem.Api\\StudentManagementSystem.Api.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.api\\controllers\\studentfeereceiptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BF62F0-6006-4FCD-B0CC-5AAD3738BC3E}|StudentManagementSystem.Api\\StudentManagementSystem.Api.csproj|solutionrelative:studentmanagementsystem.api\\controllers\\studentfeereceiptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA36C47-7463-49E7-84F6-33FCEFFD9DD3}|StudentManagementSystem.Infrastuture\\StudentManagementSystem.Infrastuture.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.infrastuture\\logger\\logexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA36C47-7463-49E7-84F6-33FCEFFD9DD3}|StudentManagementSystem.Infrastuture\\StudentManagementSystem.Infrastuture.csproj|solutionrelative:studentmanagementsystem.infrastuture\\logger\\logexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\validation\\studentdetailvalidation\\updatevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\validation\\studentdetailvalidation\\updatevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\validation\\studentfeereceiptvalidation\\addvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\validation\\studentfeereceiptvalidation\\addvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\validation\\studentfeereceiptvalidation\\updatevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\validation\\studentfeereceiptvalidation\\updatevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\features\\studentfeereceipt\\command\\addhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\features\\studentfeereceipt\\command\\addhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3237C56-79F3-42C6-B59D-A1B4497D7100}|StudentManagementSystem.Shared\\StudentManagementSystem.Shared.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.shared\\enums\\feestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3237C56-79F3-42C6-B59D-A1B4497D7100}|StudentManagementSystem.Shared\\StudentManagementSystem.Shared.csproj|solutionrelative:studentmanagementsystem.shared\\enums\\feestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\validation\\studentfeereceiptvalidation\\user\\authuservalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\validation\\studentfeereceiptvalidation\\user\\authuservalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\request\\studentfeereceipt\\updatestudentfeereceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\request\\studentfeereceipt\\updatestudentfeereceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\request\\studentfeereceipt\\getstudentfeereceiptbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\request\\studentfeereceipt\\getstudentfeereceiptbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\request\\studentfeereceipt\\getallstudentfeereceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\request\\studentfeereceipt\\getallstudentfeereceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\request\\studentfeereceipt\\deletestudentfeereceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\request\\studentfeereceipt\\deletestudentfeereceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\request\\studentfeereceipt\\addstudentfeereceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\request\\studentfeereceipt\\addstudentfeereceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\features\\studentfeereceipt\\query\\getbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\features\\studentfeereceipt\\query\\getbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\features\\studentfeereceipt\\query\\getallhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\features\\studentfeereceipt\\query\\getallhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\features\\studentfeereceipt\\command\\updatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\features\\studentfeereceipt\\command\\updatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\features\\studentfeereceipt\\command\\deletehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\features\\studentfeereceipt\\command\\deletehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.application\\features\\studentdetail\\query\\getbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDF1691-6BCA-4AA2-8A8D-7D94E32E76B2}|StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj|solutionrelative:studentmanagementsystem.application\\features\\studentdetail\\query\\getbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Infrastuture\\Migrations\\20250520073244_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentManagementSystem.Infrastuture\\Migrations\\20250520073244_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BF62F0-6006-4FCD-B0CC-5AAD3738BC3E}|StudentManagementSystem.Api\\StudentManagementSystem.Api.csproj|c:\\users\\pc8\\source\\repos\\studentmanagementsystem.domain\\studentmanagementsystem.api\\studentmanagementsystem.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D9BF62F0-6006-4FCD-B0CC-5AAD3738BC3E}|StudentManagementSystem.Api\\StudentManagementSystem.Api.csproj|solutionrelative:studentmanagementsystem.api\\studentmanagementsystem.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1282,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Api\\Controllers\\StudentDetailController.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Api\\Controllers\\StudentDetailController.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Api\\Controllers\\StudentDetailController.cs",
+              "RelativeToolTip": "StudentManagementSystem.Api\\Controllers\\StudentDetailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:57:21.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Features\\StudentDetail\\Command\\DeleteHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Features\\StudentDetail\\Command\\DeleteHandler.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Features\\StudentDetail\\Command\\DeleteHandler.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Features\\StudentDetail\\Command\\DeleteHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:12:25.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Api\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Api\\Program.cs",
+              "RelativeToolTip": "StudentManagementSystem.Api\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:19:45.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Features\\StudentDetail\\Command\\UpdateHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Features\\StudentDetail\\Command\\UpdateHandler.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Features\\StudentDetail\\Command\\UpdateHandler.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Features\\StudentDetail\\Command\\UpdateHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA3wCAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:37:59.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentDetails.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Domain\\Entity\\StudentDetails.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Domain\\Entity\\StudentDetails.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Domain\\Entity\\StudentDetails.cs",
+              "RelativeToolTip": "StudentManagementSystem.Domain\\Entity\\StudentDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:35:17.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentFuntion.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Shared\\CommonFuntion\\StudentFuntion.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Shared\\CommonFuntion\\StudentFuntion.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Shared\\CommonFuntion\\StudentFuntion.cs",
+              "RelativeToolTip": "StudentManagementSystem.Shared\\CommonFuntion\\StudentFuntion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:39:18.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddValidation.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Validation\\StudentDetailValidation\\AddValidation.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Validation\\StudentDetailValidation\\AddValidation.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Validation\\StudentDetailValidation\\AddValidation.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Validation\\StudentDetailValidation\\AddValidation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:25:10.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentManagementSystem.Infrastuture.csproj",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Infrastuture\\StudentManagementSystem.Infrastuture.csproj",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Infrastuture\\StudentManagementSystem.Infrastuture.csproj",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Infrastuture\\StudentManagementSystem.Infrastuture.csproj",
+              "RelativeToolTip": "StudentManagementSystem.Infrastuture\\StudentManagementSystem.Infrastuture.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-18T06:57:49.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceContainer.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Infrastuture\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Infrastuture\\DependencyInjection\\ServiceContainer.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Infrastuture\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeToolTip": "StudentManagementSystem.Infrastuture\\DependencyInjection\\ServiceContainer.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAQwBYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:08:07.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentManagementSystem.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Api\\StudentManagementSystem.Api.csproj",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Api\\StudentManagementSystem.Api.csproj",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Api\\StudentManagementSystem.Api.csproj",
+              "RelativeToolTip": "StudentManagementSystem.Api\\StudentManagementSystem.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-18T07:27:55.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentManagementSystem.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj",
+              "RelativeToolTip": "StudentManagementSystem.Application\\StudentManagementSystem.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-18T08:07:18.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetAllHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Features\\StudentDetail\\Query\\GetAllHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Features\\StudentDetail\\Query\\GetAllHandler.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Features\\StudentDetail\\Query\\GetAllHandler.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Features\\StudentDetail\\Query\\GetAllHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:30:27.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllStudentDetails.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Request\\StudentDetail\\GetAllStudentDetails.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Request\\StudentDetail\\GetAllStudentDetails.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Request\\StudentDetail\\GetAllStudentDetails.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Request\\StudentDetail\\GetAllStudentDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:37:16.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeleteStudentDetails.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Request\\StudentDetail\\DeleteStudentDetails.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Request\\StudentDetail\\DeleteStudentDetails.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Request\\StudentDetail\\DeleteStudentDetails.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Request\\StudentDetail\\DeleteStudentDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:44:29.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetStudentDetailsById.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Request\\StudentDetail\\GetStudentDetailsById.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Request\\StudentDetail\\GetStudentDetailsById.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Request\\StudentDetail\\GetStudentDetailsById.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Request\\StudentDetail\\GetStudentDetailsById.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:38:40.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserResponce.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Responce\\UserResponce.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Responce\\UserResponce.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Responce\\UserResponce.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Responce\\UserResponce.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:59:59.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IStudentDetailsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Interface\\IStudentDetailsRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Interface\\IStudentDetailsRepository.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Interface\\IStudentDetailsRepository.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Interface\\IStudentDetailsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:31:17.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ValidationBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Behavior\\ValidationBehaviour.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Behavior\\ValidationBehaviour.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Behavior\\ValidationBehaviour.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Behavior\\ValidationBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T07:45:08.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Api\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Api\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Api\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "StudentManagementSystem.Api\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:57:39.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UnitofWork.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Infrastuture\\Repository\\UnitofWork.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Infrastuture\\Repository\\UnitofWork.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Infrastuture\\Repository\\UnitofWork.cs",
+              "RelativeToolTip": "StudentManagementSystem.Infrastuture\\Repository\\UnitofWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:47:58.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GenricRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Infrastuture\\Repository\\GenricRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Infrastuture\\Repository\\GenricRepository.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Infrastuture\\Repository\\GenricRepository.cs",
+              "RelativeToolTip": "StudentManagementSystem.Infrastuture\\Repository\\GenricRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:27:19.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Features\\StudentDetail\\Command\\AddHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Features\\StudentDetail\\Command\\AddHandler.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Features\\StudentDetail\\Command\\AddHandler.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Features\\StudentDetail\\Command\\AddHandler.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:36:43.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Mapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Mapper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Mapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Mapper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:36:31.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Infrastuture\\Middleware\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Infrastuture\\Middleware\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Infrastuture\\Middleware\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "StudentManagementSystem.Infrastuture\\Middleware\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:07:19.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Infrastuture\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Infrastuture\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Infrastuture\\Service\\AuthService.cs",
+              "RelativeToolTip": "StudentManagementSystem.Infrastuture\\Service\\AuthService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAxwFMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:59:20.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginUser.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Request\\User\\LoginUser.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Request\\User\\LoginUser.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Request\\User\\LoginUser.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Request\\User\\LoginUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:52:21.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateStudentDetails.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Request\\StudentDetail\\UpdateStudentDetails.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Request\\StudentDetail\\UpdateStudentDetails.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Request\\StudentDetail\\UpdateStudentDetails.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Request\\StudentDetail\\UpdateStudentDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:31:32.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "StudentManagementSystem.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIA0wCIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:56:18.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Api\\appsettings.json",
+              "RelativeToolTip": "StudentManagementSystem.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-03T09:50:36.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RefreshTokenRequest.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Request\\User\\RefreshTokenRequest.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Request\\User\\RefreshTokenRequest.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Request\\User\\RefreshTokenRequest.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Request\\User\\RefreshTokenRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:53:03.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AddStudentDetails.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Request\\StudentDetail\\AddStudentDetails.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Request\\StudentDetail\\AddStudentDetails.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Request\\StudentDetail\\AddStudentDetails.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Request\\StudentDetail\\AddStudentDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:42:23.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StudentDetailsResponce.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Responce\\StudentDetailsResponce.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Responce\\StudentDetailsResponce.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Responce\\StudentDetailsResponce.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Responce\\StudentDetailsResponce.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:57:22.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Interface\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Interface\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Interface\\IUnitOfWork.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Interface\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:38:05.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StudentDetailsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Infrastuture\\Repository\\StudentDetailsRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Infrastuture\\Repository\\StudentDetailsRepository.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Infrastuture\\Repository\\StudentDetailsRepository.cs",
+              "RelativeToolTip": "StudentManagementSystem.Infrastuture\\Repository\\StudentDetailsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:41:29.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IStudentFeeReceiptsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Interface\\IStudentFeeReceiptsRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Interface\\IStudentFeeReceiptsRepository.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Interface\\IStudentFeeReceiptsRepository.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Interface\\IStudentFeeReceiptsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:35:14.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IGenricRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Interface\\IGenricRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Interface\\IGenricRepository.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Interface\\IGenricRepository.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Interface\\IGenricRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:25:00.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Interface\\IAuthService.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Interface\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Interface\\IAuthService.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Interface\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:58:06.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Exceptions\\ValidationException.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Exceptions\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:14:37.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Infrastuture\\DataBase\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Infrastuture\\DataBase\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Infrastuture\\DataBase\\AppDbContext.cs",
+              "RelativeToolTip": "StudentManagementSystem.Infrastuture\\DataBase\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T04:47:10.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RoleSeedData.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Infrastuture\\DataBase\\SeedData\\RoleSeedData.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Infrastuture\\DataBase\\SeedData\\RoleSeedData.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Infrastuture\\DataBase\\SeedData\\RoleSeedData.cs",
+              "RelativeToolTip": "StudentManagementSystem.Infrastuture\\DataBase\\SeedData\\RoleSeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:52:26.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Shared\\GlobalResponce\\Result.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Shared\\GlobalResponce\\Result.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Shared\\GlobalResponce\\Result.cs",
+              "RelativeToolTip": "StudentManagementSystem.Shared\\GlobalResponce\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:03:15.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IdentityRoleSeedData.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Infrastuture\\DataBase\\SeedData\\IdentityRoleSeedData.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Infrastuture\\DataBase\\SeedData\\IdentityRoleSeedData.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Infrastuture\\DataBase\\SeedData\\IdentityRoleSeedData.cs",
+              "RelativeToolTip": "StudentManagementSystem.Infrastuture\\DataBase\\SeedData\\IdentityRoleSeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T04:41:28.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "StudentFeeReceiptsResponce.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Responce\\StudentFeeReceiptsResponce.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Responce\\StudentFeeReceiptsResponce.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Responce\\StudentFeeReceiptsResponce.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Responce\\StudentFeeReceiptsResponce.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:58:50.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "StudentManagementSystem.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj",
+              "RelativeToolTip": "StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-18T06:23:26.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Domain\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Domain\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Domain\\Entity\\User.cs",
+              "RelativeToolTip": "StudentManagementSystem.Domain\\Entity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T04:18:03.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "StudentFeeReceiptController.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Api\\Controllers\\StudentFeeReceiptController.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Api\\Controllers\\StudentFeeReceiptController.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Api\\Controllers\\StudentFeeReceiptController.cs",
+              "RelativeToolTip": "StudentManagementSystem.Api\\Controllers\\StudentFeeReceiptController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:06:43.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UpdateValidation.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Validation\\StudentDetailValidation\\UpdateValidation.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Validation\\StudentDetailValidation\\UpdateValidation.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Validation\\StudentDetailValidation\\UpdateValidation.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Validation\\StudentDetailValidation\\UpdateValidation.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA0wB4AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:28:14.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LogException.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Infrastuture\\Logger\\LogException.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Infrastuture\\Logger\\LogException.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Infrastuture\\Logger\\LogException.cs",
+              "RelativeToolTip": "StudentManagementSystem.Infrastuture\\Logger\\LogException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T09:03:51.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AddValidation.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Validation\\StudentFeeReceiptValidation\\AddValidation.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Validation\\StudentFeeReceiptValidation\\AddValidation.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Validation\\StudentFeeReceiptValidation\\AddValidation.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Validation\\StudentFeeReceiptValidation\\AddValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABOwAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:33:06.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UpdateValidation.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Validation\\StudentFeeReceiptValidation\\UpdateValidation.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Validation\\StudentFeeReceiptValidation\\UpdateValidation.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Validation\\StudentFeeReceiptValidation\\UpdateValidation.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Validation\\StudentFeeReceiptValidation\\UpdateValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:53:44.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AddHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Features\\StudentFeeReceipt\\Command\\AddHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Features\\StudentFeeReceipt\\Command\\AddHandler.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Features\\StudentFeeReceipt\\Command\\AddHandler.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Features\\StudentFeeReceipt\\Command\\AddHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAEBSwB0AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:37:36.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FeeStatus.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Shared\\Enums\\FeeStatus.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Shared\\Enums\\FeeStatus.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Shared\\Enums\\FeeStatus.cs",
+              "RelativeToolTip": "StudentManagementSystem.Shared\\Enums\\FeeStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T04:26:08.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AuthUserValidation.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Validation\\StudentFeeReceiptValidation\\User\\AuthUserValidation.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Validation\\StudentFeeReceiptValidation\\User\\AuthUserValidation.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Validation\\StudentFeeReceiptValidation\\User\\AuthUserValidation.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Validation\\StudentFeeReceiptValidation\\User\\AuthUserValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T06:14:09.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UpdateStudentFeeReceipt.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Request\\StudentFeeReceipt\\UpdateStudentFeeReceipt.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Request\\StudentFeeReceipt\\UpdateStudentFeeReceipt.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Request\\StudentFeeReceipt\\UpdateStudentFeeReceipt.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Request\\StudentFeeReceipt\\UpdateStudentFeeReceipt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:44:38.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "GetStudentFeeReceiptById.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Request\\StudentFeeReceipt\\GetStudentFeeReceiptById.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Request\\StudentFeeReceipt\\GetStudentFeeReceiptById.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Request\\StudentFeeReceipt\\GetStudentFeeReceiptById.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Request\\StudentFeeReceipt\\GetStudentFeeReceiptById.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:46:35.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "GetAllStudentFeeReceipt.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Request\\StudentFeeReceipt\\GetAllStudentFeeReceipt.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Request\\StudentFeeReceipt\\GetAllStudentFeeReceipt.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Request\\StudentFeeReceipt\\GetAllStudentFeeReceipt.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Request\\StudentFeeReceipt\\GetAllStudentFeeReceipt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:45:35.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DeleteStudentFeeReceipt.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Request\\StudentFeeReceipt\\DeleteStudentFeeReceipt.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Request\\StudentFeeReceipt\\DeleteStudentFeeReceipt.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Request\\StudentFeeReceipt\\DeleteStudentFeeReceipt.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Request\\StudentFeeReceipt\\DeleteStudentFeeReceipt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:47:22.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AddStudentFeeReceipt.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Request\\StudentFeeReceipt\\AddStudentFeeReceipt.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Request\\StudentFeeReceipt\\AddStudentFeeReceipt.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Request\\StudentFeeReceipt\\AddStudentFeeReceipt.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Request\\StudentFeeReceipt\\AddStudentFeeReceipt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:44:42.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "GetByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Features\\StudentFeeReceipt\\Query\\GetByIdHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Features\\StudentFeeReceipt\\Query\\GetByIdHandler.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Features\\StudentFeeReceipt\\Query\\GetByIdHandler.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Features\\StudentFeeReceipt\\Query\\GetByIdHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:13:56.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "GetAllHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Features\\StudentFeeReceipt\\Query\\GetAllHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Features\\StudentFeeReceipt\\Query\\GetAllHandler.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Features\\StudentFeeReceipt\\Query\\GetAllHandler.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Features\\StudentFeeReceipt\\Query\\GetAllHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:12:45.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "UpdateHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Features\\StudentFeeReceipt\\Command\\UpdateHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Features\\StudentFeeReceipt\\Command\\UpdateHandler.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Features\\StudentFeeReceipt\\Command\\UpdateHandler.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Features\\StudentFeeReceipt\\Command\\UpdateHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:53:48.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DeleteHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Features\\StudentFeeReceipt\\Command\\DeleteHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Features\\StudentFeeReceipt\\Command\\DeleteHandler.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Features\\StudentFeeReceipt\\Command\\DeleteHandler.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Features\\StudentFeeReceipt\\Command\\DeleteHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:10:08.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "GetByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Features\\StudentDetail\\Query\\GetByIdHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Application\\Features\\StudentDetail\\Query\\GetByIdHandler.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Application\\Features\\StudentDetail\\Query\\GetByIdHandler.cs",
+              "RelativeToolTip": "StudentManagementSystem.Application\\Features\\StudentDetail\\Query\\GetByIdHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:23:43.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20250520073244_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Infrastuture\\Migrations\\20250520073244_Initial.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Infrastuture\\Migrations\\20250520073244_Initial.cs",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Infrastuture\\Migrations\\20250520073244_Initial.cs",
+              "RelativeToolTip": "StudentManagementSystem.Infrastuture\\Migrations\\20250520073244_Initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T07:32:45.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "StudentManagementSystem.Api",
+              "DocumentMoniker": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Api\\StudentManagementSystem.Api.csproj",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Api\\StudentManagementSystem.Api.csproj",
+              "ToolTip": "C:\\Users\\PC8\\source\\repos\\StudentManagementSystem.Domain\\StudentManagementSystem.Api\\StudentManagementSystem.Api.csproj",
+              "RelativeToolTip": "StudentManagementSystem.Api\\StudentManagementSystem.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T09:05:39.715Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

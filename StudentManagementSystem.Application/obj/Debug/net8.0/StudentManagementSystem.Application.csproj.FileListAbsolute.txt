@@ -1,0 +1,17 @@
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Application\bin\Debug\net8.0\StudentManagementSystem.Application.deps.json
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Application\bin\Debug\net8.0\StudentManagementSystem.Application.dll
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Application\bin\Debug\net8.0\StudentManagementSystem.Application.pdb
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Application\bin\Debug\net8.0\StudentManagementSystem.Domain.dll
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Application\bin\Debug\net8.0\StudentManagementSystem.Shared.dll
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Application\bin\Debug\net8.0\StudentManagementSystem.Domain.pdb
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Application\bin\Debug\net8.0\StudentManagementSystem.Shared.pdb
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Application\obj\Debug\net8.0\StudentManagementSystem.Application.csproj.AssemblyReference.cache
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Application\obj\Debug\net8.0\StudentManagementSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Application\obj\Debug\net8.0\StudentManagementSystem.Application.AssemblyInfoInputs.cache
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Application\obj\Debug\net8.0\StudentManagementSystem.Application.AssemblyInfo.cs
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Application\obj\Debug\net8.0\StudentManagementSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Application\obj\Debug\net8.0\StudentM.486FEF39.Up2Date
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Application\obj\Debug\net8.0\StudentManagementSystem.Application.dll
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Application\obj\Debug\net8.0\refint\StudentManagementSystem.Application.dll
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Application\obj\Debug\net8.0\StudentManagementSystem.Application.pdb
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Application\obj\Debug\net8.0\ref\StudentManagementSystem.Application.dll

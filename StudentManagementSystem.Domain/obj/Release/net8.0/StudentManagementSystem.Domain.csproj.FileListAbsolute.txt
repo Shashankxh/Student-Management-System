@@ -1,0 +1,15 @@
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Domain\bin\Release\net8.0\StudentManagementSystem.Domain.deps.json
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Domain\bin\Release\net8.0\StudentManagementSystem.Domain.dll
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Domain\bin\Release\net8.0\StudentManagementSystem.Domain.pdb
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Domain\bin\Release\net8.0\StudentManagementSystem.Shared.dll
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Domain\bin\Release\net8.0\StudentManagementSystem.Shared.pdb
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Domain\obj\Release\net8.0\StudentManagementSystem.Domain.csproj.AssemblyReference.cache
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Domain\obj\Release\net8.0\StudentManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Domain\obj\Release\net8.0\StudentManagementSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Domain\obj\Release\net8.0\StudentManagementSystem.Domain.AssemblyInfo.cs
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Domain\obj\Release\net8.0\StudentManagementSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Domain\obj\Release\net8.0\StudentM.B60FBD03.Up2Date
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Domain\obj\Release\net8.0\StudentManagementSystem.Domain.dll
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Domain\obj\Release\net8.0\refint\StudentManagementSystem.Domain.dll
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Domain\obj\Release\net8.0\StudentManagementSystem.Domain.pdb
+C:\Users\PC8\source\repos\StudentManagementSystem.Domain\StudentManagementSystem.Domain\obj\Release\net8.0\ref\StudentManagementSystem.Domain.dll
